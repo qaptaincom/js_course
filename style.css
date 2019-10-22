@@ -1,0 +1,14 @@
+div {
+	background-color: #DCDCDC;
+	width: 1200px; /* Ширина блока */
+    padding: 25px; /* Поля */
+    border: 1px solid #000; /* Параметры рамки */
+    margin: auto; /*центрирование блока */
+    border-radius: 0 0 20px;
+	}
+
+h1 {
+	color: black;
+	font-family: Arial, Verdana, sans-serif;
+ 	text-align: center;
+}
